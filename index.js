@@ -1,5 +1,3 @@
-//const http= require('http');
-const chunk = require('chunk');
-console.log(chunk([1,2,3]));
-
+console.log("Tests");
+console.warn("Node Tutorial step by step")
 
