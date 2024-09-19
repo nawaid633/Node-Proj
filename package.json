@@ -9,6 +9,7 @@
   "author": "Nawaid Alam",
   "license": "ISC",
   "dependencies": {
+    "chunk": "^0.0.3",
     "colors": "^1.4.0"
   }
 }

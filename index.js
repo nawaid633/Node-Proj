@@ -1,5 +1,5 @@
 //const http= require('http');
-const color = require('colors');
-console.log("Tests for git".red);
+const chunk = require('chunk');
+console.log(chunk([1,2,3]));
 
 
